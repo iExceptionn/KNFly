@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="96671ab7-d694-4a9c-a103-08ee579c2852" name="Changes" comment="Added flight enable on world change." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;iExceptionn&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/iExceptionn/KNFly.git&quot;,
+    &quot;accountId&quot;: &quot;f202d207-1cf3-4c4a-9458-520f7883f5c9&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2rhwhpSABl3PW2SvsegI2z9wYBb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.knfly [clean,package].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Damia\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96671ab7-d694-4a9c-a103-08ee579c2852" name="Changes" comment="" />
+      <created>1737024736793</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737024736793</updated>
+    </task>
+    <task id="LOCAL-00001" summary="new project">
+      <option name="closed" value="true" />
+      <created>1737149821466</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737149821466</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Removed test">
+      <option name="closed" value="true" />
+      <created>1737152058910</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737152058910</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Removed test">
+      <option name="closed" value="true" />
+      <created>1737152072324</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1737152072324</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added playerdata + autosave every 30min.">
+      <option name="closed" value="true" />
+      <created>1737155828930</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737155828930</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Clean up">
+      <option name="closed" value="true" />
+      <created>1737155901891</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1737155901891</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added setting for default flytime on first join.">
+      <option name="closed" value="true" />
+      <created>1737156082381</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1737156082381</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Messages toegevoegd">
+      <option name="closed" value="true" />
+      <created>1737293412177</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1737293412177</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Command voor toevoegen / wegnemen vliegtijd gemaakt.">
+      <option name="closed" value="true" />
+      <created>1737293436578</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1737293436578</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Renamed class &amp; added events to prevent falldamage.">
+      <option name="closed" value="true" />
+      <created>1737320487117</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1737320487117</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added all the messages to messages.yml">
+      <option name="closed" value="true" />
+      <created>1737320533354</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1737320533354</updated>
+    </task>
+    <task id="LOCAL-00011" summary="removed debug">
+      <option name="closed" value="true" />
+      <created>1737320545113</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1737320545113</updated>
+    </task>
+    <task id="LOCAL-00012" summary="added permissions, removed debug and fixed saving bug.">
+      <option name="closed" value="true" />
+      <created>1737320588754</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1737320588754</updated>
+    </task>
+    <task id="LOCAL-00013" summary="added option to enable fly for others.">
+      <option name="closed" value="true" />
+      <created>1737395305081</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1737395305081</updated>
+    </task>
+    <task id="LOCAL-00014" summary="added option to enable fly for others.">
+      <option name="closed" value="true" />
+      <created>1737395453581</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1737395453581</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Fixed flyTime info not updating">
+      <option name="closed" value="true" />
+      <created>1737897988599</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1737897988599</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Added flight enable on world change.">
+      <option name="closed" value="true" />
+      <created>1737907240968</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1737907240968</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new project" />
+    <MESSAGE value="Removed test" />
+    <MESSAGE value="Added playerdata + autosave every 30min." />
+    <MESSAGE value="Clean up" />
+    <MESSAGE value="added setting for default flytime on first join." />
+    <MESSAGE value="Messages toegevoegd" />
+    <MESSAGE value="Command voor toevoegen / wegnemen vliegtijd gemaakt." />
+    <MESSAGE value="Renamed class &amp; added events to prevent falldamage." />
+    <MESSAGE value="Added all the messages to messages.yml" />
+    <MESSAGE value="removed debug" />
+    <MESSAGE value="added permissions, removed debug and fixed saving bug." />
+    <MESSAGE value="added option to enable fly for others." />
+    <MESSAGE value="Fixed flyTime info not updating" />
+    <MESSAGE value="Added flight enable on world change." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added flight enable on world change." />
+  </component>
+</project>

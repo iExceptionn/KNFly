@@ -1,0 +1,7 @@
+name: knfly
+version: '1.0-SNAPSHOT'
+main: me.iexception.knfly.Core
+api-version: '1.21'
+commands:
+  fly:
+    description: Fly Command

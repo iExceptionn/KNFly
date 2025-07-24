@@ -1,0 +1,46 @@
+# This are the messages for the Knaagdiernetwork Fly plugin.
+
+# This the main prefix. Add this to the messages with %prefix%.
+prefix: "&6&lKDN &8→&7"
+
+# This are the messages send to players without the use of commands.
+messages:
+  fly-time: "%prefix% Je kunt vliegen voor &e%hours% &7uur &e%minutes% &7minuten en &e%seconds% &7seconden."
+
+# This are the messages send to player with the use of commands.
+# Everything with "player" is send to the player.
+# Everything with "staff" is send to the player using the command.
+commands:
+  flytime-added: "%prefix% &7Je hebt &e%amount% &7minuten aan vliegtijd &aontvangen&7."
+  flytime-added-staff: "%prefix% &7Je hebt &e%target% &7zojuist &e%amount% &7minuten aan vliegtijd &agegeven&7."
+  flytime-removed: "%prefix% &7Er is &e%amount% &7minuten &7aan vliegtijd &cweggenomen&7."
+  flytime-removed-staff: "%prefix% &7Je hebt &e%target% &7zojuist &e%amount% minuten &7minuten aan vliegtijd &cingenomen."
+  flight-enabled: "%prefix% &7Je kunt nu vliegen."
+  flight-disabled: "%prefix% &7Je kunt niet meer vliegen."
+  flight-enabled-time: "%prefix% &7Je kunt nu vliegen voor &e%hours% &7uur &e%minutes% &7minuten en &e%seconds% &7seconden."
+  flight-disabled-time: "%prefix% &7Je vliegen is uitgeschakeld. Je resterende vliegtijd is &e%hours% &7uur &e%minutes% &7minuten en &e%seconds% seconden."
+  reload-flight-messages: "%prefix% &fJe hebt succesvol alle berichten opnieuw geladen."
+  player-fly-time: "%prefix% &e%target% &7kan vliegen voor &e%hours% &7uur, &e%minutes% &7minuten en &e%seconds% &7seconden."
+  no-fly-time: "%prefix% &7Je hebt op dit moment geen vliegtijd om te kunnen vliegen."
+  player-not-found: "%prefix% &7De speler %target% is nog niet op de server geweest."
+  command-time-usage: "%prefix% &f/fly time <player> add/remove <time>"
+  command-time-addremove: "%prefix% &f/fly time <player> &eadd/remove &f<time>"
+  command-time-amount: "%prefix% &f/fly time <player> add/remove &e<time>"
+  not-valid-amount: "%prefix% &7Je kunt alleen minuten invullen. Vul voor 1 uur '60' in."
+  no-permissions: "%prefix% &7Je hebt geen toegang tot dit command."
+  no-permissions-log: "%prefix% &c%player% &fheeft geprobeerd het command &c%command% &fte gebruiken."
+  flight-enabled-staff: "%prefix% &7Je hebt vliegen &aaangezet &7voor &e%target%&7."
+  flight-disabled-staff: "%prefix% &7Je hebt vliegen &cuitgezet &7voor &e%target%&7."
+  player-not-online: "%prefix% &7Speler &e%target% &7is niet online."
+
+# This are the messages used by the plugin for the console.
+systeem:
+  enable: "%prefix% The plugin has been &aenabled&7."
+  loaded: "%prefix% &fLoaded &e%count% &fplayers from the playerdata.yml"
+  disable: "%prefix% The plugin has been &cdisabled&7."
+  saved: "%prefix% &fSaved &e%count% &fplayers to playerdata.yml"
+  time-added-log: "%prefix% %player%'s heeft %seconden% vlieg tijd gekregen van %staff%&7."
+  time-removed-log: "%prefix% %player% heeft %seconden% &cminder &7vlieg tijd gekregen van %staff%&7."
+  not-player: "%prefix% &cYou can only use this command as a player."
+  fly-time-ending: "%prefix% &7Je kunt nog vliegen voor &e%minutes% &7minuten en &e%seconds% &7seconden."
+  fly-info-console: "%prefix% &7Gebruik het command als: &e/fly info <player>"

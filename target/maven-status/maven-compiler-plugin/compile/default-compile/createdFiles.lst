@@ -1,0 +1,16 @@
+me\iexception\knfly\managers\user\User.class
+me\iexception\knfly\managers\interfaces\IFlightManager.class
+me\iexception\knfly\commands\FlyCommand.class
+me\iexception\knfly\managers\FlyTimeManager.class
+me\iexception\knfly\managers\UserManager.class
+me\iexception\knfly\events\playerEvents.class
+me\iexception\knfly\managers\FlightManager.class
+me\iexception\knfly\managers\FlyTimeManager$1.class
+me\iexception\knfly\Core.class
+me\iexception\knfly\managers\UserManager$1.class
+me\iexception\knfly\utils\ChatUtils.class
+me\iexception\knfly\managers\interfaces\IFlyTimeManager.class
+me\iexception\knfly\utils\MessageUtils.class
+me\iexception\knfly\utils\FileManager.class
+me\iexception\knfly\managers\interfaces\iUserManager.class
+me\iexception\knfly\events\playerEvents$1.class

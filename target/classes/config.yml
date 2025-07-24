@@ -1,0 +1,6 @@
+# Settings for the Knaagdiernetwork Fly plugin.
+
+version: 1.0
+
+settings:
+  default-time: 0 # The default fly time for every new player.
